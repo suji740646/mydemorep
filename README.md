@@ -7,3 +7,7 @@ print("yes git is pushing")
 <br>
 else :
 print(" no pushing failed")
+# now adding for loop 
+for list in student( i>0):
+<br>
+print("list")
