@@ -25,7 +25,7 @@ pipeline {
 
         stage('STAGE4') {
             steps {
-                 sh 'echo THis is STAGE4'
+                 sh 'echo THis is STAE4'
             }
         }
     }
